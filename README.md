@@ -5,7 +5,12 @@
   <img src="https://komarev.com/ghpvc/?username=alvarosbernucci&label=Profile%20views&color=0e75b6&style=flat" alt="alvarosbernucci" />
 </p>
 
-<p align="center"> 🔭 I’m currently working on <strong>Gym Movement</strong><br> 🌱 I’m currently learning <strong>Ruby on Rails</strong><br> 💬 Ask me about <strong>coding & games</strong><br> 📫 How to reach me:
+<p align="center">
+  🔭 I’m currently working on <strong>Gym Movement</strong><br>
+  🌱 I’m currently learning <strong>Ruby on Rails</strong><br>
+  💬 Ask me about <strong>coding & games</strong><br>
+  📫 How to reach me: <strong>alvarosenabernucci@gmail.com</strong>
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -15,4 +20,8 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,git,heroku,postgresql,ruby,rails,sqlite" />
+  </a>
+</p>
