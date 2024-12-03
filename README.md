@@ -5,13 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=alvarosbernucci&label=Profile%20views&color=0e75b6&style=flat" alt="alvarosbernucci" />
 </p>
 
-- 🔭 I’m currently working on **Gym Movement**
-
-- 🌱 I’m currently learning **Ruby on Rails**
-
-- 💬 Ask me about **coding & games**
-
-- 📫 How to reach me **alvarosenabernucci@gmail.com**
+<p align="center"> 🔭 I’m currently working on <strong>Gym Movement</strong><br> 🌱 I’m currently learning <strong>Ruby on Rails</strong><br> 💬 Ask me about <strong>coding & games</strong><br> 📫 How to reach me:
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
